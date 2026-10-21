@@ -1,9 +1,9 @@
 Metric,Score / Value,Unit / Description
-Plate Localization Accuracy,83.3%,Intersection over Union & Region Match
-Character Recognition Accuracy,67.2%,Levenshtein Character Similarity
-Plate Top-1 / Valid Match,61.1%,Accurate or Edit Distance <= 2
-Plate Exact String Match,22.2%,100% Exact Character String Match
-Plate Detection Latency,10473.0 ms,"Bilateral filter, Canny, Contours"
-OCR Processing Latency,1734.5 ms,Adaptive thresholding & Tesseract
-Total End-to-End Latency,12207.5 ms,Real-Time Image Processing Time
+Plate Localization Accuracy,66.7%,Intersection over Union & Region Match
+Character Recognition Accuracy,53.9%,Levenshtein Character Similarity
+Plate Top-1 / Valid Match,38.9%,Accurate or Edit Distance <= 2
+Plate Exact String Match,16.7%,100% Exact Character String Match
+Plate Detection Latency,11278.5 ms,"Bilateral filter, Canny, Contours"
+OCR Processing Latency,2086.5 ms,Adaptive thresholding & Tesseract
+Total End-to-End Latency,13365.0 ms,Real-Time Image Processing Time
 Inference Throughput,0.1 FPS,Processed frames per second

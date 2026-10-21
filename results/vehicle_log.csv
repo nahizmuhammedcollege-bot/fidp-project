@@ -92,3 +92,34 @@ Timestamp,Image_File,Detected_Plate,Ground_Truth,Match_Status,Confidence,Latency
 2026-10-22 04:31:40,0073797c-a755-4972-b76b-8ef2b31d44ab___new_IMG_20160315_071740.jpg.jpeg,KA 19 TR 0220,KA19TR02,PARTIAL MATCH,0.99,1582.0,google_images (All),Real-World (Kaggle)
 2026-10-22 04:31:52,00b42b2c-f193-4863-b92c-0245cbc816da___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Petrol-Review-Images-Black-Front-Angle.jpg,TE8737,TN21AT0492,MISMATCH,0.50,12826.3,google_images (All),Real-World (Kaggle)
 2026-10-22 04:31:57,018b52e6-e9a1-42c2-8ce7-0617e8c8e021___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_sbtb02_auto1.jpg,RI 27 TC 0530,RJ27TC0530,MISMATCH,0.74,4225.0,google_images (All),Real-World (Kaggle)
+2026-10-22 04:50:58,0a720df9-e4ef-4e44-8c13-b39b9be8444d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-6.jpg,TN 21 AT 0480,TN21AT0480,EXACT MATCH,0.99,4138.4,google_images (All),Kaggle Indian License Plate Dataset
+2026-10-22 04:51:28,2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg.jpeg,YY4G,KA05HS4495,MISMATCH,0.35,3730.5,google_images (All),Kaggle Indian License Plate Dataset
+2026-10-22 05:01:37,2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg.jpeg,KA 05 TH 5449,KA05HS4495,MISMATCH,0.99,6444.1,Unknown,Normal
+2026-10-22 05:01:46,0a720df9-e4ef-4e44-8c13-b39b9be8444d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-6.jpg,NL 4N IK R0RE,TN21AT0480,MISMATCH,0.79,8583.7,Unknown,Normal
+2026-10-22 05:05:07,2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg.jpeg,KA 57 HS 4495,KA05HS4495,MISMATCH,0.99,4773.4,Unknown,Normal
+2026-10-22 05:05:15,0a720df9-e4ef-4e44-8c13-b39b9be8444d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-6.jpg,TN 24 AT 0480,TN21AT0480,MISMATCH,0.99,6581.5,Unknown,Normal
+2026-10-22 05:07:09,2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg.jpeg,KA 05 HS 4495,KA05HS4495,EXACT MATCH,0.99,4853.6,Unknown,Normal
+2026-10-22 05:07:17,0a720df9-e4ef-4e44-8c13-b39b9be8444d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-6.jpg,TN 24 AT 0480,TN21AT0480,MISMATCH,0.99,6590.7,Unknown,Normal
+2026-10-22 05:09:07,2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg.jpeg,KA 05 HS 4495,KA05HS4495,EXACT MATCH,0.99,4758.8,Unknown,Normal
+2026-10-22 05:09:14,0a720df9-e4ef-4e44-8c13-b39b9be8444d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-6.jpg,TN 21 AT 0480,TN21AT0480,EXACT MATCH,0.99,6601.0,Unknown,Normal
+2026-10-22 05:09:31,AN1.jpg,AR 0 IP 9687,AN01P9687,MISMATCH,0.99,3940.9,State-wise_OLX (AN),Real-World (Kaggle)
+2026-10-22 05:09:36,AP1.jpg,AP 5 BY 7739,AP05BY7799,MISMATCH,0.99,5273.5,State-wise_OLX (AP),Real-World (Kaggle)
+2026-10-22 05:09:42,AR1.jpg,AS 01 HS 8395,AR048395,MISMATCH,0.99,5738.9,State-wise_OLX (AR),Real-World (Kaggle)
+2026-10-22 05:09:54,AS1.jpg,AS 2 3H 2866,AS23H2866,EXACT MATCH,0.99,11674.3,State-wise_OLX (AS),Real-World (Kaggle)
+2026-10-22 05:10:01,BR10.jpg,BR 52 PA 6558,BR32PA6558,MISMATCH,0.99,6690.9,State-wise_OLX (BR),Real-World (Kaggle)
+2026-10-22 05:10:02,CG1.jpg,CG 04 HD 6930,CG04HD6930,EXACT MATCH,0.99,1430.4,State-wise_OLX (CG),Real-World (Kaggle)
+2026-10-22 05:10:08,CH1.jpg,RE7EBSAAAHY659,CH01BQ5604,MISMATCH,0.50,5567.2,State-wise_OLX (CH),Real-World (Kaggle)
+2026-10-22 05:10:18,DL1.jpg,DL 6 CJ 8404,DL6CJ8404,EXACT MATCH,0.99,10079.8,State-wise_OLX (DL),Real-World (Kaggle)
+2026-10-22 05:10:20,DN1.jpg,AP 10 FFS 5054,DN09H2191,MISMATCH,0.99,2673.9,State-wise_OLX (DN),Real-World (Kaggle)
+2026-10-22 05:10:26,GA1.jpg,AN 01 RS 7V12,GA03R9230,MISMATCH,0.99,5349.4,State-wise_OLX (GA),Real-World (Kaggle)
+2026-10-22 05:10:32,GJ1.jpg,GAG5,GJ7AG4373,MISMATCH,0.35,5938.2,State-wise_OLX (GJ),Real-World (Kaggle)
+2026-10-22 05:10:35,HP1.jpg,AP 01 FTG F535,HP12H1324,MISMATCH,0.99,3358.7,State-wise_OLX (HP),Real-World (Kaggle)
+2026-10-22 05:10:44,car-wbs-MH01DE2780_00000.png,HO 1 DE 2700,MH01DE2780,MISMATCH,0.74,8822.2,video_images (All),Real-World (Kaggle)
+2026-10-22 05:12:18,0a720df9-e4ef-4e44-8c13-b39b9be8444d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-6.jpg,TN 21 AT 0480,TN21AT0480,EXACT MATCH,0.99,6550.0,google_images (All),Kaggle Indian License Plate Dataset
+2026-10-22 05:12:39,3fd93f90-f778-4f14-8b0f-67dd0be88a06___561644d1308248087-beware-fake-registration-numbers-imported-cars-proof-pg-3-257491_10150223034216705_685851704_7325894_6 - Copy.jpeg,WB E0 GF 9209,WB06F9209,MISMATCH,0.79,5586.2,google_images (All),Kaggle Indian License Plate Dataset
+2026-10-22 05:12:51,car-wbs-MH03AR5549_00000.jpg,MH 1 SANSBAATOEZRSCYHE 7E44,MH03AR5549,MISMATCH,0.99,126570.4,video_images (All),Real-World (Kaggle)
+2026-10-22 05:13:01,car-wbs-MH12FU1014_00000.png,APU1014,MH12FU1014,MISMATCH,0.75,10013.7,video_images (All),Real-World (Kaggle)
+2026-10-22 05:13:02,6bf2730d-82bf-43ac-8802-b61315d85b96___2017-Skoda-Octavia-rear-high-revealed-for-India-images.jpg.jpeg,MH 20 EE 7598,MH20EE7598,EXACT MATCH,0.99,4464.4,google_images (All),Kaggle Indian License Plate Dataset
+2026-10-22 05:13:08,0073797c-a755-4972-b76b-8ef2b31d44ab___new_IMG_20160315_071740.jpg.jpeg,AN 45 KAA9ITROZZO 1020,KA19TR02,MISMATCH,0.99,7806.3,google_images (All),Real-World (Kaggle)
+2026-10-22 05:13:20,00b42b2c-f193-4863-b92c-0245cbc816da___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Petrol-Review-Images-Black-Front-Angle.jpg,RS 48 EA E5R1,TN21AT0492,MISMATCH,0.54,11773.8,google_images (All),Real-World (Kaggle)
+2026-10-22 05:13:28,018b52e6-e9a1-42c2-8ce7-0617e8c8e021___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_sbtb02_auto1.jpg,RU 27 TC 0530,RJ27TC0530,MISMATCH,0.74,7867.7,google_images (All),Real-World (Kaggle)
