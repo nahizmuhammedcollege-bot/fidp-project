@@ -1,0 +1,308 @@
+[
+  {
+    "filename": "AN1.jpg",
+    "rel_path": "State-wise_OLX/AN/AN1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\AN\\AN1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "AN",
+    "plate_text_raw": "AN01P9687",
+    "plate_text_clean": "AN01P9687",
+    "bbox": [
+      94,
+      364,
+      91,
+      21
+    ],
+    "width": 272,
+    "height": 575
+  },
+  {
+    "filename": "AP1.jpg",
+    "rel_path": "State-wise_OLX/AP/AP1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\AP\\AP1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "AP",
+    "plate_text_raw": "AP05BY7799",
+    "plate_text_clean": "AP05BY7799",
+    "bbox": [
+      101,
+      145,
+      78,
+      17
+    ],
+    "width": 272,
+    "height": 204
+  },
+  {
+    "filename": "AR1.jpg",
+    "rel_path": "State-wise_OLX/AR/AR1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\AR\\AR1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "AR",
+    "plate_text_raw": "AR048395",
+    "plate_text_clean": "AR048395",
+    "bbox": [
+      99,
+      110,
+      57,
+      12
+    ],
+    "width": 272,
+    "height": 153
+  },
+  {
+    "filename": "AS1.jpg",
+    "rel_path": "State-wise_OLX/AS/AS1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\AS\\AS1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "AS",
+    "plate_text_raw": "AS23H2866",
+    "plate_text_clean": "AS23H2866",
+    "bbox": [
+      143,
+      251,
+      73,
+      20
+    ],
+    "width": 272,
+    "height": 363
+  },
+  {
+    "filename": "BR10.jpg",
+    "rel_path": "State-wise_OLX/BR/BR10.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\BR\\BR10.jpg",
+    "subset": "State-wise_OLX",
+    "state": "BR",
+    "plate_text_raw": "BR32PA6558",
+    "plate_text_clean": "BR32PA6558",
+    "bbox": [
+      112,
+      235,
+      80,
+      20
+    ],
+    "width": 272,
+    "height": 363
+  },
+  {
+    "filename": "CG1.jpg",
+    "rel_path": "State-wise_OLX/CG/CG1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\CG\\CG1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "CG",
+    "plate_text_raw": "CG04HD6930",
+    "plate_text_clean": "CG04HD6930",
+    "bbox": [
+      102,
+      262,
+      90,
+      21
+    ],
+    "width": 270,
+    "height": 332
+  },
+  {
+    "filename": "CH1.jpg",
+    "rel_path": "State-wise_OLX/CH/CH1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\CH\\CH1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "CH",
+    "plate_text_raw": "CH01BQ5604",
+    "plate_text_clean": "CH01BQ5604",
+    "bbox": [
+      34,
+      132,
+      35,
+      13
+    ],
+    "width": 272,
+    "height": 174
+  },
+  {
+    "filename": "DL1.jpg",
+    "rel_path": "State-wise_OLX/DL/DL1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\DL\\DL1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "DL",
+    "plate_text_raw": "DL6CJ8404",
+    "plate_text_clean": "DL6CJ8404",
+    "bbox": [
+      89,
+      235,
+      87,
+      20
+    ],
+    "width": 272,
+    "height": 363
+  },
+  {
+    "filename": "DN1.jpg",
+    "rel_path": "State-wise_OLX/DN/DN1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\DN\\DN1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "DN",
+    "plate_text_raw": "DN09H2191",
+    "plate_text_clean": "DN09H2191",
+    "bbox": [
+      95,
+      208,
+      79,
+      17
+    ],
+    "width": 272,
+    "height": 363
+  },
+  {
+    "filename": "GA1.jpg",
+    "rel_path": "State-wise_OLX/GA/GA1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\GA\\GA1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "GA",
+    "plate_text_raw": "GA03R9230",
+    "plate_text_clean": "GA03R9230",
+    "bbox": [
+      129,
+      207,
+      48,
+      17
+    ],
+    "width": 272,
+    "height": 363
+  },
+  {
+    "filename": "GJ1.jpg",
+    "rel_path": "State-wise_OLX/GJ/GJ1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\GJ\\GJ1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "GJ",
+    "plate_text_raw": "GJ7AG4373",
+    "plate_text_clean": "GJ7AG4373",
+    "bbox": [
+      42,
+      286,
+      64,
+      35
+    ],
+    "width": 264,
+    "height": 469
+  },
+  {
+    "filename": "HP1.jpg",
+    "rel_path": "State-wise_OLX/HP/HP1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\State-wise_OLX\\HP\\HP1.jpg",
+    "subset": "State-wise_OLX",
+    "state": "HP",
+    "plate_text_raw": "HP12H1324",
+    "plate_text_clean": "HP12H1324",
+    "bbox": [
+      121,
+      230,
+      57,
+      12
+    ],
+    "width": 272,
+    "height": 363
+  },
+  {
+    "filename": "car-wbs-MH01DE2780_00000.png",
+    "rel_path": "video_images/car-wbs-MH01DE2780_00000.png",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\video_images\\car-wbs-MH01DE2780_00000.png",
+    "subset": "video_images",
+    "state": "All",
+    "plate_text_raw": "MH01DE2780",
+    "plate_text_clean": "MH01DE2780",
+    "bbox": [
+      480,
+      206,
+      149,
+      47
+    ],
+    "width": 731,
+    "height": 425
+  },
+  {
+    "filename": "car-wbs-MH03AR5549_00000.jpg",
+    "rel_path": "video_images/car-wbs-MH03AR5549_00000.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\video_images\\car-wbs-MH03AR5549_00000.jpg",
+    "subset": "video_images",
+    "state": "All",
+    "plate_text_raw": "MH03AR5549",
+    "plate_text_clean": "MH03AR5549",
+    "bbox": [
+      1298,
+      712,
+      2702,
+      900
+    ],
+    "width": 4000,
+    "height": 3000
+  },
+  {
+    "filename": "car-wbs-MH12FU1014_00000.png",
+    "rel_path": "video_images/car-wbs-MH12FU1014_00000.png",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\video_images\\car-wbs-MH12FU1014_00000.png",
+    "subset": "video_images",
+    "state": "All",
+    "plate_text_raw": "MH12FU1014",
+    "plate_text_clean": "MH12FU1014",
+    "bbox": [
+      88,
+      184,
+      104,
+      30
+    ],
+    "width": 554,
+    "height": 354
+  },
+  {
+    "filename": "0073797c-a755-4972-b76b-8ef2b31d44ab___new_IMG_20160315_071740.jpg.jpeg",
+    "rel_path": "google_images/0073797c-a755-4972-b76b-8ef2b31d44ab___new_IMG_20160315_071740.jpg.jpeg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\google_images\\0073797c-a755-4972-b76b-8ef2b31d44ab___new_IMG_20160315_071740.jpg.jpeg",
+    "subset": "google_images",
+    "state": "All",
+    "plate_text_raw": "KA19TR02",
+    "plate_text_clean": "KA19TR02",
+    "bbox": [
+      140,
+      210,
+      199,
+      50
+    ],
+    "width": 500,
+    "height": 335
+  },
+  {
+    "filename": "00b42b2c-f193-4863-b92c-0245cbc816da___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Petrol-Review-Images-Black-Front-Angle.jpg",
+    "rel_path": "google_images/00b42b2c-f193-4863-b92c-0245cbc816da___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Petrol-Review-Images-Black-Front-Angle.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\google_images\\00b42b2c-f193-4863-b92c-0245cbc816da___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Petrol-Review-Images-Black-Front-Angle.jpg",
+    "subset": "google_images",
+    "state": "All",
+    "plate_text_raw": "TN21AT0492",
+    "plate_text_clean": "TN21AT0492",
+    "bbox": [
+      184,
+      572,
+      108,
+      76
+    ],
+    "width": 1280,
+    "height": 853
+  },
+  {
+    "filename": "018b52e6-e9a1-42c2-8ce7-0617e8c8e021___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_sbtb02_auto1.jpg",
+    "rel_path": "google_images/018b52e6-e9a1-42c2-8ce7-0617e8c8e021___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_sbtb02_auto1.jpg",
+    "abs_path": "C:\\Users\\user\\Downloads\\nahiz\\dataset\\kaggle_data\\google_images\\018b52e6-e9a1-42c2-8ce7-0617e8c8e021___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_sbtb02_auto1.jpg",
+    "subset": "google_images",
+    "state": "All",
+    "plate_text_raw": "RJ27TC0530",
+    "plate_text_clean": "RJ27TC0530",
+    "bbox": [
+      327,
+      202,
+      72,
+      25
+    ],
+    "width": 660,
+    "height": 280
+  }
+]

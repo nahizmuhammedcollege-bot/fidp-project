@@ -1,0 +1,214 @@
+{
+  "dataset_name": "Kaggle Indian License Plate Dataset (OLX State-Wise)",
+  "total_images_evaluated": 18,
+  "localization_accuracy_percent": 83.33,
+  "character_accuracy_percent": 67.24,
+  "exact_match_accuracy_percent": 22.22,
+  "partial_match_accuracy_percent": 61.11,
+  "latency_breakdown": {
+    "detection_ms": 10473.0,
+    "ocr_ms": 1734.46,
+    "total_ms": 12207.47,
+    "throughput_fps": 0.08
+  },
+  "per_image_results": [
+    {
+      "filename": "AN1.jpg",
+      "state": "AN",
+      "subset": "State-wise_OLX",
+      "ground_truth": "AN01P9687",
+      "detected": "AN0IP9687",
+      "status": "PARTIAL MATCH",
+      "iou": 1.0,
+      "char_acc": 88.9,
+      "latency_ms": 1097.7
+    },
+    {
+      "filename": "AP1.jpg",
+      "state": "AP",
+      "subset": "State-wise_OLX",
+      "ground_truth": "AP05BY7799",
+      "detected": "AP05BY7739",
+      "status": "PARTIAL MATCH",
+      "iou": 0.534,
+      "char_acc": 90.0,
+      "latency_ms": 2227.3
+    },
+    {
+      "filename": "AR1.jpg",
+      "state": "AR",
+      "subset": "State-wise_OLX",
+      "ground_truth": "AR048395",
+      "detected": "AR0A8395",
+      "status": "PARTIAL MATCH",
+      "iou": 1.0,
+      "char_acc": 87.5,
+      "latency_ms": 2554.5
+    },
+    {
+      "filename": "AS1.jpg",
+      "state": "AS",
+      "subset": "State-wise_OLX",
+      "ground_truth": "AS23H2866",
+      "detected": "AS23H2866",
+      "status": "EXACT MATCH",
+      "iou": 1.0,
+      "char_acc": 100.0,
+      "latency_ms": 2200.2
+    },
+    {
+      "filename": "BR10.jpg",
+      "state": "BR",
+      "subset": "State-wise_OLX",
+      "ground_truth": "BR32PA6558",
+      "detected": "BR12PAR52P",
+      "status": "MISMATCH",
+      "iou": 1.0,
+      "char_acc": 60.0,
+      "latency_ms": 1186.5
+    },
+    {
+      "filename": "CG1.jpg",
+      "state": "CG",
+      "subset": "State-wise_OLX",
+      "ground_truth": "CG04HD6930",
+      "detected": "CG04HD6930",
+      "status": "EXACT MATCH",
+      "iou": 1.0,
+      "char_acc": 100.0,
+      "latency_ms": 1536.0
+    },
+    {
+      "filename": "CH1.jpg",
+      "state": "CH",
+      "subset": "State-wise_OLX",
+      "ground_truth": "CH01BQ5604",
+      "detected": "POC4LESOY555",
+      "status": "MISMATCH",
+      "iou": 0.0,
+      "char_acc": 8.3,
+      "latency_ms": 2568.9
+    },
+    {
+      "filename": "DL1.jpg",
+      "state": "DL",
+      "subset": "State-wise_OLX",
+      "ground_truth": "DL6CJ8404",
+      "detected": "DL6CJ8404",
+      "status": "EXACT MATCH",
+      "iou": 1.0,
+      "char_acc": 100.0,
+      "latency_ms": 2106.5
+    },
+    {
+      "filename": "DN1.jpg",
+      "state": "DN",
+      "subset": "State-wise_OLX",
+      "ground_truth": "DN09H2191",
+      "detected": "DN09H2191",
+      "status": "EXACT MATCH",
+      "iou": 1.0,
+      "char_acc": 100.0,
+      "latency_ms": 965.8
+    },
+    {
+      "filename": "GA1.jpg",
+      "state": "GA",
+      "subset": "State-wise_OLX",
+      "ground_truth": "GA03R9230",
+      "detected": "GR0IR1130",
+      "status": "MISMATCH",
+      "iou": 1.0,
+      "char_acc": 55.6,
+      "latency_ms": 3304.3
+    },
+    {
+      "filename": "GJ1.jpg",
+      "state": "GJ",
+      "subset": "State-wise_OLX",
+      "ground_truth": "GJ7AG4373",
+      "detected": "NLKWK5527",
+      "status": "MISMATCH",
+      "iou": 0.0,
+      "char_acc": 0.0,
+      "latency_ms": 3445.2
+    },
+    {
+      "filename": "HP1.jpg",
+      "state": "HP",
+      "subset": "State-wise_OLX",
+      "ground_truth": "HP12H1324",
+      "detected": "HP12HI3224",
+      "status": "PARTIAL MATCH",
+      "iou": 1.0,
+      "char_acc": 80.0,
+      "latency_ms": 2246.2
+    },
+    {
+      "filename": "car-wbs-MH01DE2780_00000.png",
+      "state": "All",
+      "subset": "video_images",
+      "ground_truth": "MH01DE2780",
+      "detected": "MI01OG2750",
+      "status": "MISMATCH",
+      "iou": 0.604,
+      "char_acc": 60.0,
+      "latency_ms": 4052.5
+    },
+    {
+      "filename": "car-wbs-MH03AR5549_00000.jpg",
+      "state": "All",
+      "subset": "video_images",
+      "ground_truth": "MH03AR5549",
+      "detected": "KA54RT5V4V",
+      "status": "MISMATCH",
+      "iou": 1.0,
+      "char_acc": 20.0,
+      "latency_ms": 167712.3
+    },
+    {
+      "filename": "car-wbs-MH12FU1014_00000.png",
+      "state": "All",
+      "subset": "video_images",
+      "ground_truth": "MH12FU1014",
+      "detected": "WH2FU1014",
+      "status": "PARTIAL MATCH",
+      "iou": 1.0,
+      "char_acc": 80.0,
+      "latency_ms": 3897.2
+    },
+    {
+      "filename": "0073797c-a755-4972-b76b-8ef2b31d44ab___new_IMG_20160315_071740.jpg.jpeg",
+      "state": "All",
+      "subset": "google_images",
+      "ground_truth": "KA19TR02",
+      "detected": "KA19TR0220",
+      "status": "PARTIAL MATCH",
+      "iou": 1.0,
+      "char_acc": 80.0,
+      "latency_ms": 1582.0
+    },
+    {
+      "filename": "00b42b2c-f193-4863-b92c-0245cbc816da___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Petrol-Review-Images-Black-Front-Angle.jpg",
+      "state": "All",
+      "subset": "google_images",
+      "ground_truth": "TN21AT0492",
+      "detected": "TE8737",
+      "status": "MISMATCH",
+      "iou": 0.0,
+      "char_acc": 10.0,
+      "latency_ms": 12826.3
+    },
+    {
+      "filename": "018b52e6-e9a1-42c2-8ce7-0617e8c8e021___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_sbtb02_auto1.jpg",
+      "state": "All",
+      "subset": "google_images",
+      "ground_truth": "RJ27TC0530",
+      "detected": "RI27TC0530",
+      "status": "PARTIAL MATCH",
+      "iou": 1.0,
+      "char_acc": 90.0,
+      "latency_ms": 4225.0
+    }
+  ]
+}
